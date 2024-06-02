@@ -19,5 +19,5 @@ This project demonstrates how to build an Image to PDF Converter web application
 - FPDF 1.x
 - Tailwind CSS
 
-##Installation
+## Installation
 -Steps to run are written in the blog <https://medium.com/@mathur.danduprolu/building-an-image-to-pdf-converter-with-django-celery-and-redis-2f33506d5956>
